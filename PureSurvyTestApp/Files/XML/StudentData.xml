@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Student>
+  <Student>
+    <TotalMarks>500</TotalMarks>
+    <Name>Srinivas</Name>
+    <Gender>Male</Gender>
+  </Student>
+  <Student>
+    <Name>Ravi</Name>
+    <Gender>Male</Gender>
+    <TotalMarks>400</TotalMarks>
+  </Student>
+  <Student>
+    <Name>Roja</Name>
+    <TotalMarks>600</TotalMarks>
+    <Gender>Female</Gender>
+  </Student>
+  <Student>
+    <Name>Divya</Name>
+    <Gender>Female</Gender>
+    <TotalMarks>650</TotalMarks>
+  </Student>
+</Student>
