@@ -11,8 +11,7 @@ namespace PureSurvyTestApp
         static void Main(string[] args)
         {
             XmlSchemaSet schema = new XmlSchemaSet();
-
-
+            
             schema.Add("", @"c:\users\smalyala\documents\visual studio 2015\Projects\PureSurvyTestApp\PureSurvyTestApp\Files\XSD\Student.xsd");
 
             XDocument doc = XDocument.Load(@"c:\users\smalyala\documents\visual studio 2015\Projects\PureSurvyTestApp\PureSurvyTestApp\Files\XML\StudentData.xml");
